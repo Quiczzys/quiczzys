@@ -1,37 +1,46 @@
+
 <h1 align="center">Hey, I'm Quiczzys. 👋</h1>
 
 <p align="center">
-  Minecraft Server Developer
+  <strong>Minecraft Server Developer</strong>
 </p>
 
 <p align="center">
-  I have been setting up Minecraft servers for over 4 years. 
-  I enjoy it, and I improve with every project. I have also started creating my own Minecraft plugins.
+  I've been setting up and managing Minecraft servers for over 4 years.
+  Over time, I've started developing my own plugins and experimenting
+  with custom features to bring new ideas to life.
 </p>
 
 ---
 
 ### About
 
-- Building custom features and server systems.
-- Interested in Paper and Purpur development.
-- Learning more about Git, GitHub and programming.
-- Always looking for new things to experiment with.
+- Building custom Minecraft features and server systems.
+- Developing and experimenting with Paper and Purpur.
+- Currently learning more about Java and plugin development.
+- Always exploring new ideas and improving my projects.
 
 ### Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=minecraft,java,python,html,css,git,github,vscode" />
-</p>
-
-### GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Quiczzys&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
+  <img
+    src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode"
+    alt="Technologies and tools"
+    height="48"
+    style="display: block; margin: 0 auto;"
+  />
 </p>
 
 ---
 
+### Currently Working On
+
+- Developing custom Minecraft plugins.
+- Improving Minecraft Servers
+- Experimenting with new gameplay mechanics and features.
+
+---
+
 <p align="center">
-  Quiczzys - 2026
+  <sub>Quiczzys · 2026</sub>
 </p>
